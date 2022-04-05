@@ -38,6 +38,8 @@ int main()
 }
 
 /* References
+ * https://www.youtube.com/watch?v=9iQ6IfsDo2I
+ * http://web.stanford.edu/class/msande319/Approximation%20Algorithm/lec1.pdf
  * https://codeantenna.com/a/yXsSJ8WM9W
  * https://codeantenna.com/a/HqaFoPuAcZ 
  * https://blog.51cto.com/u_15303184/3101989 */
